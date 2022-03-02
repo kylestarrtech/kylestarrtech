@@ -13,7 +13,9 @@ Projects aside from Tile Tapper would be simple things - my portfolio, a variety
 
 ## How can I contact you?
 If you wanted to contact me, you can do so via:
+
 👉 Email (Use for professional/business inquiries): kyle@kylestarr.tech
+
 👉 Twitter (Anything): @KyleStarrTech
 
 <!--
