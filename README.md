@@ -1,5 +1,5 @@
 ### Hi 👋! I'm Kyle Starr!
-#### A 22 year old CS student specializing in game development/design.
+#### A 23 year old CS student specializing in game development/design.
 
 ## About Me
 I started taking an interest in Computer Science and the broad field of it around 13 years old - I wasn't very good at the math at the time, so I instead loved looking into the broad view of how games worked, how I could do that - and general problems/solutions with a game's design. I also gained my interest in tech hardware and repair at this age.
