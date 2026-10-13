@@ -1,22 +1,15 @@
 ### Hi 👋! I'm Kyle Starr!
-#### A 23 year old CS student specializing in game development/design.
+#### A 24 year old CS student specializing in game development/design.
 
 ## About Me
-I started taking an interest in Computer Science and the broad field of it around 13 years old - I wasn't very good at the math at the time, so I instead loved looking into the broad view of how games worked, how I could do that - and general problems/solutions with a game's design. I also gained my interest in tech hardware and repair at this age.
-
-I wouldn't get a grasp of core programming fundamentals until about a year later at the age of 14 where I had made my first text adventure game, and soon after this I'd have gone to the Unity game engine and begun making games. I explain a bit more about what I'm working on in the next section!
+I started taking an interest in Computer Science and the broad field of it around 13 years old, with my first game being made not even a year later. I have a deep-rooted interest in the inner workings of software, the problem-solving alongside it, the way humans interact with what we create, and how we can ensure as many people as possible regardless of age, gender, disability, or life circumstances are able to benefit their lives through the power of software.
 
 ## What am I working on?
-Currently, my main project is a Unity game called Tile Tapper! It's a 5-lane mobile rhythm game that was created to solve a problem I had with other mobile rhythm games - a powerful level editor couldn't be found on mobile rhythm games like that, and none of them let you style a level to your liking from the ground up. Tile Tapper, as said, was my solution to this problem - allowing you to create basic, or very complex levels with plenty of styling options while also allowing for the support of custom songs and developer-made levels to serve as a reference point for what the editor is capable of!
+I bounce between projects a lot, but my primary projects are:
+- **Balanced by Daylight**: a free and open-source website used for _Dead by Daylight_ players to validate and produce tournament-ready loadouts for over 130+ different competitive organizations.
+- **Project TCD**: A high skill duel where a strategic Runner attempts to outmaneuver a deadly Chaser. With a high focus on mindgames and mechanical skill, this experience is still in active development by my studio, _StellarCode_.
 
-Projects aside from Tile Tapper would be simple things - my portfolio, a variety of Unity prototypes, and also some random side projects.
-
-## How can I contact you?
-If you wanted to contact me, you can do so via:
-
-👉 Email (Use for professional/business inquiries): kyle@kylestarr.tech
-
-👉 Twitter (Anything): @KyleStarrTech
+In addition to this I work on a large variety of side projects.
 
 <!--
 **kylestarrtech/kylestarrtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
